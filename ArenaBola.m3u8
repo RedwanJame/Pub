@@ -4,4 +4,4 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000000,
-https://83.142.30.171:443/live/perfecttv/perfecttv/60.ts
+https://83.142.30.171:8080/live/perfecttv/perfecttv/60.ts
